@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zifan Li"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "MSEE Grad Student at Columbia University"
   location         : "New York City"
   employer         :
